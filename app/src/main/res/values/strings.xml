@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">hw1</string>
+    <string name="reset">сброс</string>
+    <string name="centerStart">все места свободны</string>
+    <string name="centerMiddle">осталось мест: </string>
+    <string name="centerFinish">пассажиров слишком много!</string>
 </resources>
